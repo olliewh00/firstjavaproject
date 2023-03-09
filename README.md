@@ -1,4 +1,4 @@
-# firstjavaproject
+# first java project
 Create a Simple Chatty Bot with fundamentals of Java
 
 
